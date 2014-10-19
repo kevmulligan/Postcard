@@ -56,6 +56,7 @@
                         <viewControllerLayoutGuide type="bottom" id="1lp-Sw-Xg6"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="pg8-2i-nzN">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="AlbertEinsteinStamp.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="p8t-wU-zpB">
